@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "name": "tutorial",
+  "version": "1.0.0",
+  "main": "alternate-values.js",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
